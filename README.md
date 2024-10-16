@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmateito&label=Profile%20views&color=0e75b6&style=flat" alt="elmateito" /> </p>
 
-- 👨‍💻 Actualmente estoy trabajando en un mini-proyecto con Python: [Autenticación de usuarios con JWT-FastAPI](https://github.com/elmateito/web-app)
+- 👨‍💻 Actualmente estoy trabajando en un proyecto con Python: [Autenticación de usuarios con JWT-FastAPI](https://github.com/elmateito/web-app)
 
 - 📫 Contácteme; cualquier cosa por: **mateo.se.arias@gmail.com**
 
