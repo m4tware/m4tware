@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">·👨‍💻 Actualmente estoy trabajando en un proyecto con Python: Autenticación de usuarios con JWT-FastAPI<br><br>·📫 Contácteme; cualquier cosa por: mateo.se.arias@gmail.com</p>
+<p align="center">•👨‍💻 Actualmente estoy trabajando en un proyecto con Python: Autenticación de usuarios con JWT-FastAPI<br><br>•📫 Contácteme; cualquier cosa por: mateo.se.arias@gmail.com</p>
 
 ###
 
