@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="center">Analista TI - Desarrollador de Software</h3>
+<h2 align="center">Analista TI - Desarrollador de Software</h2>
 
 ###
 
-<h4 align="center">•👨‍💻 Actualmente estoy trabajando en un proyecto con Python: Autenticación de usuarios con JWT-FastAPI<br><br>•📫 Contácteme; cualquier cosa por: mateo.se.arias@gmail.com</h4>
+<h3 align="center">•👨‍💻 Actualmente estoy trabajando en un proyecto con Python: Autenticación de usuarios con JWT-FastAPI<br><br>•📫 Contácteme; cualquier cosa por: mateo.se.arias@gmail.com</h3>
 
 ###
 
