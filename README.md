@@ -1,9 +1,3 @@
-<div align="right">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
 <h1 align="center">Mateo 🗿</h1>
 
 ###
@@ -12,7 +6,15 @@
 
 ###
 
-<h3 align="center">•👨‍💻 Actualmente estoy trabajando en un proyecto con Python: Autenticación de usuarios con JWT-FastAPI<br><br>•📫 Contácteme; cualquier cosa por: mateo.se.arias@gmail.com</h3>
+<h3 align="center">•👨‍💻 Actualmente estoy iniciando mi aprendizaje con el lenguaje C++<br><br>•📫 Contácteme; cualquier cosa por: mateo.se.arias@gmail.com</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateo-se-arias/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -21,6 +23,8 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
 </div>
 
@@ -40,7 +44,7 @@
 
 ###
 
-<h3 align="left">🗃️  Frameworks / 🔭 Gestores de Bases de Datos</h3>
+<h3 align="left">🗃️ Frameworks / 🔭 Gestores de Bases de Datos</h3>
 
 ###
 
@@ -60,8 +64,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=m4tware.m4tware&"  />
+<br clear="both">
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m4tware.m4tware&left_text=%F0%9F%91%80"  />
 </div>
 
 ###
