@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">•👨‍💻 Actualmente estoy iniciando mi aprendizaje con el lenguaje C++<br><br>•📫 Contácteme; cualquier cosa por:</h3>
+<h3 align="center">•👨‍💻 Actualmente estoy iniciando mi aprendizaje de MongoDB + FastAPI<br><br>•📫 Contácteme; cualquier cosa por:</h3>
 
 ###
 
@@ -26,11 +26,11 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <!---<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />--->
 </div>
 
 ###
