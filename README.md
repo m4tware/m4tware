@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">•👨‍💻 Actualmente estoy iniciando mi aprendizaje de MongoDB + FastAPI<br><br>•📫 Contácteme; cualquier cosa por:</h3>
+<h3 align="center">•👨‍💻 Actualmente estoy iniciando trabajando en un aplicativo: MongoDB + FastAPI<br><br>•📫 Contácteme; cualquier cosa por:</h3>
 
 ###
 
