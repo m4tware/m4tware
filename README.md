@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Analista TI - Desarrollador de Software</h2>
+<h2 align="center">Analista TI - Data - Open Source - Backend</h2>
 
 ###
 
