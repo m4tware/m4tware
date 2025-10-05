@@ -51,11 +51,13 @@
 
 ###
 
-<h3 align="left">🔭 Frameworks / 🗃️ Database Management System</h3>
+<h3 align="left">🔭 Technologies / 🗃️ Database Management System</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  height="40" alt="docker logo"  />
+  <img width="12" />        
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
